@@ -1,0 +1,7 @@
+frames.zip: Arquivo contendo os frames originais do vídeo
+
+frames.py: Script em Python para binarização do vídeo
+
+processamento.c: programa em C para processamento dos frames (gera pixels.h)
+
+LCD_Test.ino: programa final para exibir vídeo no LCD
